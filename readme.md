@@ -1,5 +1,5 @@
 # Sequence
-## Obtain sequence segments
+## Obtaining sequence segments
 Example:
 ```python
 from sequence import seqseg
