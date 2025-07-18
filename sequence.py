@@ -1,7 +1,7 @@
 def seqseg(seq):
 '''# Sequence
 ## Obtaining sequence segments
- Example:
+Example:
 ```python
 from sequence import seqseg
 print(seqseg([7,3,6,9,3]))
@@ -29,7 +29,7 @@ Output:
 def issublist(near, far):
 '''# Sequence
 ## Is it a sublist of this?
- Example:
+Example:
 ```python
 from sequence import issublist
 if issublist([1,2], [1,2,3]):
