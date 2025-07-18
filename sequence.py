@@ -1,5 +1,5 @@
 def seqseg(seq):
-'''# Sequence
+	'''# Sequence
 ## Obtaining sequence segments
 Example:
 ```python
@@ -27,7 +27,7 @@ Output:
 	return subs
 
 def issublist(near, far):
-'''# Sequence
+	'''# Sequence
 ## Is it a sublist of this?
 Example:
 ```python
