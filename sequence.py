@@ -1,6 +1,6 @@
 def seqseg(seq):
-	'''# Sequence
- ## Obtaining sequence segments
+'''# Sequence
+## Obtaining sequence segments
  Example:
 ```python
 from sequence import seqseg
@@ -27,8 +27,8 @@ Output:
 	return subs
 
 def issublist(near, far):
-	'''# Sequence
- ## Is it a sublist of this?
+'''# Sequence
+## Is it a sublist of this?
  Example:
 ```python
 from sequence import issublist
